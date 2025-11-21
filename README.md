@@ -6,9 +6,7 @@ This program in a game like Hangman.  I will use variables, expressions, conditi
 
 The purpose in writing this software is to add to my software skills.  Rust is a lanugage I am not familiar with and wanted to expand the area of my programming skills.  
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://go.screenpal.com/watch/cTXYqsnqo9g)
 
 # Development Environment
 
@@ -20,14 +18,12 @@ Rust Language
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Rust Tutorial Full Course](https://www.youtube.com/watch?v=ygL_xcavzQ4)
 - [Rust](https://rust-lang.org)
 - [Wikepedia Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 # Future Work
 
-- Create more variety of words to guess
+- Create random way for words to be guessed
 - Program more error handling
 - Create time limits or a countdown
